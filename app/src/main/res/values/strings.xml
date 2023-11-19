@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ContactsListApp</string>
+    <string name="id_tv">ID</string>
+    <string name="name_surname_tv">Mike Silver</string>
+    <string name="phone_number_tv">(555) 355 50 50</string>
+    <string name="add_contact_descr">Add Contact</string>
+    <string name="new_contact_hint">New Contact</string>
+    <string name="delete_contact_descr">Delete Contact</string>
+    <string name="contacts_list_tv">Contacts List</string>
+    <string name="undo_select_items_descr">Undo Select Items</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="delete_btn">Delete</string>
+    <string name="add_new_contact_frag_tv">Add New Contact</string>
+    <string name="edit_contact_frag_tv">Edit Contact</string>
+    <string name="name_et">Name</string>
+    <string name="surname_et">Surname</string>
+    <string name="phone_number_hint">Phone Number</string>
+    <string name="add_contact_frag_btn">Add Contact</string>
+    <string name="edit_contact_frag_btn">Edit Contact</string>
+    <string name="cancel_frag_btn">Cancel</string>
+</resources>
